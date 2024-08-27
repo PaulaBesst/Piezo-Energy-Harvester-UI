@@ -1,0 +1,10 @@
+export const data = [{"y-axis":63.6116,"x-axis":1},
+{"y-axis":73.4514,"x-axis":2},
+{"y-axis":80.1426,"x-axis":3},
+{"y-axis":57.5248,"x-axis":4},
+{"y-axis":99.1059,"x-axis":5},
+{"y-axis":51.0861,"x-axis":6},
+{"y-axis":72.8506,"x-axis":7},
+{"y-axis":60.2903,"x-axis":8},
+{"y-axis":57.3825,"x-axis":9},
+{"y-axis":51.6395,"x-axis":10}]
